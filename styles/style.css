@@ -109,6 +109,7 @@ margin-bottom: 30px;
 }
 .what-i-do{
     margin-top: 130px;
+    margin-bottom: 130px;
 }
 .skills-container{
     display: flex;
@@ -131,8 +132,33 @@ margin-bottom: 30px;
 }
 
 /* resume style */
-
-
+.resume-contents{
+    display: flex;
+    gap: 24px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume .sub-title{
+color: #757575;
+font-weight: 600;
+font-size: 20px;
+margin-bottom: 20px;
+}
+.resume .description{
+color: #757575;
+}
+.resume-itme{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
 
 
 
